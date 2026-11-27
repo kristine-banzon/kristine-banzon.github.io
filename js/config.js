@@ -13,13 +13,13 @@ window.SITE_CONFIG = {
       name: "Gabriel Salvador",
       role: "Technical Lead & Web Lead",
       href: "https://mooky424.github.io",
-      here: true
+      here: false
     },
     {
       name: "Kristine Banzon",
       role: "Content Communicator & Research Lead",
       href: "https://kristine-banzon.github.io",
-      here: false
+      here: true
     },
     {
       name: "Giuliana Bautista",
